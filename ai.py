@@ -5,7 +5,7 @@ import os
 # Initialize the OpenAI client with NVIDIA API
 client = OpenAI(
   base_url = "https://integrate.api.nvidia.com/v1",
-  api_key = "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"
+  api_key = "USE YOUR API"
 )
 
 # Path to the conversation memory file
