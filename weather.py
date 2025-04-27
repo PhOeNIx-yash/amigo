@@ -14,7 +14,7 @@ def speak(audio):
     engine.runAndWait()
 
 def get_weather(city):
-    api_key = "ef0c35a85fac51c1f56402332c946394"
+    api_key = "USE OPEN WEATHER MAP API"
     base_url = "https://api.openweathermap.org/data/2.5/weather"
     
     params = {
